@@ -1,0 +1,6 @@
+//https://docs.aws.amazon.com/sdk-for-javascript/v2/developer-guide/getting-your-credentials.html
+{
+    "accessKeyId": "",
+    "secretAccessKey": "",
+    "region": "ap-south-1"
+}
